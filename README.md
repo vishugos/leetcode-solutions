@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vishugos/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/vishugos/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vishugos/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishugos/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
 |  |
 | ------- |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishugos/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vishugos/leetcode-solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/vishugos/leetcode-solutions/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishugos/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishugos/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishugos/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
