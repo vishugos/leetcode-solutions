@@ -8,6 +8,9 @@ class Solution {
 
         int arrowpos = points[0][1];
 
+         // edge case
+        if(points.length == 0) return 0;
+
 
         for(int i = 1; i < points.length; i++){
               
