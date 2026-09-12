@@ -1,19 +1,20 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-
-        int maxsum = nums[0];
-
-        int currsum = nums[0];
-
-        for(int i= 1; i < nums.length; i++){
-
-         currsum = Math.max(nums[i],  currsum + nums[i]);
-
-         maxsum = Math.max(maxsum , currsum);
-
-        }
-
-        return maxsum;
         
+      // in this we have to find out the maximum subarray 
+
+     int currsum = nums[0];
+     int maxsum = nums[0];
+       
+       for(int i = 1 ; i < nums.length;i++){
+
+        currsum = Math.max(nums[i] , nums[i] + currsum);
+
+        maxsum = Math.max(currsum , maxsum);
+
+       }
+
+       return maxsum;
+
     }
 }
