@@ -158,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vishugos/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vishugos/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
