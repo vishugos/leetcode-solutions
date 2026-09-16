@@ -3,6 +3,8 @@ class Solution {
 
     int [] passengerAt = new int[1001];
 
+    int [] diff = new int[1001];
+
     for(int t = 0 ; t < trips.length; t++){
 
         int passenger = trips[t][0];
@@ -11,15 +13,22 @@ class Solution {
 
         int end = trips[t][2];
 
-        for(int i = start; i < end ; i++){
+        diff[start] += passenger;
 
-            passengerAt[i] += passenger;
+        diff[end] -= passenger;
 
-            if(passengerAt[i] > capacity ){
-                return false;
-            } 
-        }
+       
     }
+     int currentpassenger = 0;
+
+        for(int i = 0; i <= 1000; i++){
+
+            currentpassenger += diff[i];
+
+            if(currentpassenger > capacity){
+                return false;
+            }
+        }
 
     return true;
         
