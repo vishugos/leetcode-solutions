@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/vishugos/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/vishugos/leetcode-solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/vishugos/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1052-grumpy-bookstore-owner](https://github.com/vishugos/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/vishugos/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/vishugos/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/vishugos/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vishugos/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/vishugos/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1052-grumpy-bookstore-owner](https://github.com/vishugos/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vishugos/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Greedy
 |  |
