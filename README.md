@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vishugos/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vishugos/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vishugos/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishugos/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vishugos/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishugos/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vishugos/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/vishugos/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
