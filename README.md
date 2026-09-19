@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vishugos/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vishugos/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/vishugos/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vishugos/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishugos/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
