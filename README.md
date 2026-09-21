@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/vishugos/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/vishugos/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/vishugos/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
+| [1191-k-concatenation-maximum-sum](https://github.com/vishugos/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [1288-remove-covered-intervals](https://github.com/vishugos/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishugos/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vishugos/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vishugos/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vishugos/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vishugos/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1191-k-concatenation-maximum-sum](https://github.com/vishugos/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishugos/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
