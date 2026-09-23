@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/vishugos/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/vishugos/leetcode-solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/vishugos/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vishugos/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1052-grumpy-bookstore-owner](https://github.com/vishugos/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/vishugos/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vishugos/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vishugos/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vishugos/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishugos/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 ## Binary Indexed Tree
 |  |
 | ------- |
