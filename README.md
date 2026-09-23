@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vishugos/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/vishugos/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/vishugos/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/vishugos/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vishugos/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vishugos/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vishugos/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishugos/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vishugos/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vishugos/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishugos/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishugos/leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/vishugos/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/vishugos/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vishugos/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishugos/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishugos/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vishugos/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vishugos/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/vishugos/leetcode-solutions/tree/master/0344-reverse-string) |
