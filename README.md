@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vishugos/leetcode-solutions/tree/master/0066-plus-one) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vishugos/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishugos/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/vishugos/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vishugos/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/vishugos/leetcode-solutions/tree/master/0916-word-subsets) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vishugos/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishugos/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -327,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vishugos/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/vishugos/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
