@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vishugos/leetcode-solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/vishugos/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+| [0916-word-subsets](https://github.com/vishugos/leetcode-solutions/tree/master/0916-word-subsets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vishugos/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1052-grumpy-bookstore-owner](https://github.com/vishugos/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1094-car-pooling](https://github.com/vishugos/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+| [0916-word-subsets](https://github.com/vishugos/leetcode-solutions/tree/master/0916-word-subsets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+| [0916-word-subsets](https://github.com/vishugos/leetcode-solutions/tree/master/0916-word-subsets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishugos/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
