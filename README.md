@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/vishugos/leetcode-solutions/tree/master/3138-minimum-length-of-anagram-concatenation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vishugos/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/vishugos/leetcode-solutions/tree/master/3138-minimum-length-of-anagram-concatenation) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishugos/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+| [3138-minimum-length-of-anagram-concatenation](https://github.com/vishugos/leetcode-solutions/tree/master/3138-minimum-length-of-anagram-concatenation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
