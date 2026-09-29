@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vishugos/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Divide and Conquer
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vishugos/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishugos/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/vishugos/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Sliding Window
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishugos/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishugos/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
