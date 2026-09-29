@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vishugos/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vishugos/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vishugos/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [1094-car-pooling](https://github.com/vishugos/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/vishugos/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/vishugos/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vishugos/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/vishugos/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vishugos/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vishugos/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishugos/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
