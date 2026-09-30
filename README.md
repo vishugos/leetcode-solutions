@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishugos/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/vishugos/leetcode-solutions/tree/master/3138-minimum-length-of-anagram-concatenation) |
+| [3163-string-compression-iii](https://github.com/vishugos/leetcode-solutions/tree/master/3163-string-compression-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
