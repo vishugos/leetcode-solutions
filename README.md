@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vishugos/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vishugos/leetcode-solutions/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vishugos/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vishugos/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishugos/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vishugos/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/vishugos/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vishugos/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vishugos/leetcode-solutions/tree/master/0169-majority-element) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vishugos/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/vishugos/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/vishugos/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/vishugos/leetcode-solutions/tree/master/0205-isomorphic-strings) |
