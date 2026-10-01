@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vishugos/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishugos/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vishugos/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0459-repeated-substring-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vishugos/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/vishugos/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/vishugos/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vishugos/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/vishugos/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 ## Manacher
 |  |
@@ -367,5 +370,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vishugos/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/vishugos/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
