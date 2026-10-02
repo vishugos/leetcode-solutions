@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishugos/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/vishugos/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/vishugos/leetcode-solutions/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/vishugos/leetcode-solutions/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3163-string-compression-iii](https://github.com/vishugos/leetcode-solutions/tree/master/3163-string-compression-iii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/vishugos/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/vishugos/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/vishugos/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/vishugos/leetcode-solutions/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/vishugos/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/vishugos/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/vishugos/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/vishugos/leetcode-solutions/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/vishugos/leetcode-solutions/tree/master/1392-longest-happy-prefix) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/vishugos/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/vishugos/leetcode-solutions/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 ## Manacher
 |  |
 | ------- |
