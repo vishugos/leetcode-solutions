@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vishugos/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vishugos/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/vishugos/leetcode-solutions/tree/master/0704-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/vishugos/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0860-lemonade-change](https://github.com/vishugos/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/vishugos/leetcode-solutions/tree/master/0916-word-subsets) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vishugos/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vishugos/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/vishugos/leetcode-solutions/tree/master/0704-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/vishugos/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/vishugos/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/vishugos/leetcode-solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Two Pointers
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishugos/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/vishugos/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vishugos/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0792-number-of-matching-subsequences](https://github.com/vishugos/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vishugos/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/vishugos/leetcode-solutions/tree/master/1191-k-concatenation-maximum-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/vishugos/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vishugos/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vishugos/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/vishugos/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1094-car-pooling](https://github.com/vishugos/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/vishugos/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/vishugos/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/vishugos/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/vishugos/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/vishugos/leetcode-solutions/tree/master/0916-word-subsets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -256,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0763-partition-labels](https://github.com/vishugos/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/vishugos/leetcode-solutions/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/vishugos/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0890-find-and-replace-pattern](https://github.com/vishugos/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0916-word-subsets](https://github.com/vishugos/leetcode-solutions/tree/master/0916-word-subsets) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vishugos/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -364,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/vishugos/leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Euclidean Algorithm
 |  |
