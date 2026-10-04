@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/vishugos/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vishugos/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/vishugos/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/vishugos/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vishugos/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vishugos/leetcode-solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishugos/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/vishugos/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
