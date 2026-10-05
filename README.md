@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/vishugos/leetcode-solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/vishugos/leetcode-solutions/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/vishugos/leetcode-solutions/tree/master/3076-shortest-uncommon-substring-in-an-array) |
+| [3110-score-of-a-string](https://github.com/vishugos/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/vishugos/leetcode-solutions/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3163-string-compression-iii](https://github.com/vishugos/leetcode-solutions/tree/master/3163-string-compression-iii) |
 ## Binary Indexed Tree
