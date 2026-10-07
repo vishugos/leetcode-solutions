@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vishugos/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vishugos/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/vishugos/leetcode-solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/vishugos/leetcode-solutions/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/vishugos/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vishugos/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vishugos/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/vishugos/leetcode-solutions/tree/master/0068-text-justification) |
 | [1094-car-pooling](https://github.com/vishugos/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1920-build-array-from-permutation](https://github.com/vishugos/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vishugos/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vishugos/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vishugos/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vishugos/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/vishugos/leetcode-solutions/tree/master/0068-text-justification) |
 | [0187-repeated-dna-sequences](https://github.com/vishugos/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/vishugos/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/vishugos/leetcode-solutions/tree/master/0214-shortest-palindrome) |
