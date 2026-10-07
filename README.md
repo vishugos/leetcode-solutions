@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/vishugos/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vishugos/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vishugos/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vishugos/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/vishugos/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2788-split-strings-by-separator](https://github.com/vishugos/leetcode-solutions/tree/master/2788-split-strings-by-separator) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vishugos/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vishugos/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/vishugos/leetcode-solutions/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/vishugos/leetcode-solutions/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/vishugos/leetcode-solutions/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
